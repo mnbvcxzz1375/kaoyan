@@ -147,6 +147,12 @@
     <ClCompile Include="快速排序.cpp" />
     <ClCompile Include="插入排序.cpp" />
     <ClCompile Include="最大公约数、最小公倍数.cpp" />
+    <ClCompile Include="模拟1.cpp" />
+    <ClCompile Include="模拟2.cpp" />
+    <ClCompile Include="模拟3.cpp" />
+    <ClCompile Include="模拟4.cpp" />
+    <ClCompile Include="模拟5.cpp" />
+    <ClCompile Include="模拟6.cpp" />
     <ClCompile Include="求和.cpp" />
     <ClCompile Include="求平方和.cpp" />
     <ClCompile Include="求积.cpp" />

@@ -96,5 +96,23 @@
     <ClCompile Include="11.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="模拟1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模拟2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模拟3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模拟4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模拟5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模拟6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

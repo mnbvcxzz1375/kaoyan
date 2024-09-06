@@ -19,6 +19,7 @@ int Binary_Search(int* arr, int key ,int num) {
 		else if (arr[mid] < key)
 			low = mid + 1;
 	}
+	return -1;
 }
 
 //int main() {
